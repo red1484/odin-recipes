@@ -1,8 +1,20 @@
-.heading {
+.title {
     font-weight: bold;
     font-size: 100px;
 }
 
-.list {
+.large-list {
     font-size: 30px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.text {
+    font-size: 24px;
+}
+
+ol li {
+    margin: 20px;
 }
